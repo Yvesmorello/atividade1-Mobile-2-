@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mobile/service/transacoes.dart';
+import 'package:mobile/service/transacoes_api.dart';
 import 'screen/AdicionarTransacaoScreen.dart';
 
 void main() {

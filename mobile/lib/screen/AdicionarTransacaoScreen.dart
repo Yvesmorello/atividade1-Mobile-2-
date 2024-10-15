@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mobile/service/transacoes.dart';
+import 'package:mobile/service/transacoes_api.dart';
 
 class AdicionarTransacaoScreen extends StatefulWidget {
   final Map<String, dynamic>? transacao; 
